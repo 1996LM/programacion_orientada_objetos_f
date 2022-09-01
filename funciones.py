@@ -33,7 +33,7 @@
 
 def suma(num1: int,num2: int)-> int: #tambien podemos tipar pero no lo vamos aprender en este curso
     #en visula estudio una funcion se deberia documentar. 
-    #
+    
     """ Esta funcion suma dos numeros enteros
 
     Args:
@@ -50,8 +50,7 @@ def suma(num1: int,num2: int)-> int: #tambien podemos tipar pero no lo vamos apr
 #S single que indica que cada principio tiene una unica obligacion
 #
 
-resp = suma(2,4)
-print(resp)
+
 
 
 def multiplicacion(num1,num2):
